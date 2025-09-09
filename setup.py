@@ -11,7 +11,8 @@ setup(
     install_requires=[
         'rich>=14.1.0',
         'click>=8.2.1',
-        'Telethon>=1.41.2'
+        'Telethon>=1.41.2',
+        'cryptg>=0.5.1'
     ],
     entry_points={
         'console_scripts': [
